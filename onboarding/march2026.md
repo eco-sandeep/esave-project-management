@@ -6,6 +6,8 @@
 - Heroku - Only devs , sandeep to setup
 - AWS RDS - Only dev, sandeep to setup and himself
 
+# Actions
+Git usage document - sandeep
   
 ## Arpita
 - email : X
