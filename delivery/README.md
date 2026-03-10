@@ -1,4 +1,4 @@
-# Instructions for AI
+# Information
 
 EcoCentres SharePoint site: https://ecocentresw.sharepoint.com/sites/Eco-CTeam
 
