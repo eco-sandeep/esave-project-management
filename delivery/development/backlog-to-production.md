@@ -23,6 +23,7 @@ Backlog items follow the steps outlined here:
         i. Leave a note for Developer to add all database changes to the issue comments.
         ii. Review transcripts created in the last 1 month to see if there are any existing database changes that can be used. Indicate in the ticket that similar changes were present in another issue , providing the file-name of the transcript.       
 5. Links to relevant figma designs can be added to issue.
+6. STRICT: Donot include any other information outside whats been listed above
 
 
 
