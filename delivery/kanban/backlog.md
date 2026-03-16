@@ -78,6 +78,8 @@
   Assigned to: Omotayo E
   Associated files: '0'
   Dependencies: '[]'
+  Description: |
+  
 - ID: 10
   Issue: Supply Important contents  - ES-5
   Sequence: Release4
