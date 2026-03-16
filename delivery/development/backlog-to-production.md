@@ -10,11 +10,12 @@ Backlog items follow the steps outlined here:
 4. From the transcript populate the Github issue description. To find the Github item use the REQ Id in the title of the Development Tracker task.
 
 ### Github issue format
-<!-- github-issue-format -->
-1. Title must retain the DevTracker and REQ Id from the Development Tracker task.
-2. Description should be populated from the transcript of the meeting or filled in manually
-3. Any attachments can be added to the Github issue.
-4. Classification of what the issue is about. If not detectable from the transcript, ask the creator.
+<!-- eco-issue-format -->
+1. Ask which transcript to use before creating issue.
+2. Title must retain the DevTracker and REQ Id from the Development Tracker task.
+3. Description should be populated from the transcript of the meeting or filled in manually
+4. Any attachments can be added to the Github issue.
+5. Classification of what the issue is about. If not detectable from the transcript, ask the creator.
     a. If ticket involves UX changes:
         i. Ask whether a design is available or Dev should use existing components and styling.
         ii. If design is available, add link to issue.
@@ -22,8 +23,9 @@ Backlog items follow the steps outlined here:
     b. If ticket involves database changes:
         i. Leave a note for Developer to add all database changes to the issue comments.
         ii. Review transcripts created in the last 1 month to see if there are any existing database changes that can be used. Indicate in the ticket that similar changes were present in another issue , providing the file-name of the transcript.       
-5. Links to relevant figma designs can be added to issue.
-6. STRICT: Donot include any other information outside whats been listed above
+6. Links to relevant figma designs can be added to issue.
+7. STRICT: Donot include any other information outside whats been listed above
+8. STRICT: Always show the entire decription in a single copiable block
 
 
 
