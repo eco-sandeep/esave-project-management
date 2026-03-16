@@ -10,6 +10,7 @@ Backlog items follow the steps outlined here:
 4. From the transcript populate the Github issue description. To find the Github item use the REQ Id in the title of the Development Tracker task.
 
 ### Github issue format
+<!-- github-issue-format -->
 1. Title must retain the DevTracker and REQ Id from the Development Tracker task.
 2. Description should be populated from the transcript of the meeting or filled in manually
 3. Any attachments can be added to the Github issue.
