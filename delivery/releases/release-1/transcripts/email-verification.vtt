@@ -1,0 +1,421 @@
+WEBVTT
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/5-0
+00:00:03.428 --> 00:00:04.308
+<v Arpita N>Hi, Sandeep.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/6-0
+00:00:05.308 --> 00:00:05.348
+I.
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/8-0
+00:00:08.228 --> 00:00:11.068
+<v Arpita N>Right. So I was going through.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/9-0
+00:00:11.228 --> 00:00:11.268
+<v Arpita N>Oh.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/10-0
+00:00:13.228 --> 00:00:18.908
+<v Arpita N>These uh release one requirements and I
+thought I'll get some.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/11-0
+00:00:20.108 --> 00:00:26.388
+<v Arpita N>Some details from you on the item 19 ID
+19 e-mail verification mandatory.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/12-0
+00:00:28.228 --> 00:00:28.468
+<v Sandeep S>Yes.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/15-0
+00:00:30.188 --> 00:00:33.873
+<v Sandeep S>So yeah,
+I can talk you through that one e-mail</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/15-1
+00:00:33.873 --> 00:00:38.941
+<v Sandeep S>verification mandatory.
+I think I'm told that this has been built</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/15-2
+00:00:38.941 --> 00:00:43.702
+<v Sandeep S>previously, but it was disabled.
+So when we pick it up again,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/15-3
+00:00:43.702 --> 00:00:49.308
+<v Sandeep S>we should first check if what code's
+available and whether it's fit for.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/16-0
+00:00:50.148 --> 00:00:56.148
+<v Sandeep S>Purpose uh and then if it is then we
+enable it and test.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/14-0
+00:00:52.508 --> 00:00:52.828
+<v Arpita N>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/18-0
+00:00:57.668 --> 00:01:04.576
+<v Sandeep S>If it's not available or it's not present,
+then we'll have to build that</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/17-0
+00:01:03.748 --> 00:01:04.268
+<v Arpita N>Yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/18-1
+00:01:04.576 --> 00:01:09.875
+<v Sandeep S>functionality.
+Now the functionality is that every time</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/18-2
+00:01:09.875 --> 00:01:14.228
+<v Sandeep S>I register before I can access my account
+on.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/20-0
+00:01:14.908 --> 00:01:23.427
+<v Sandeep S>E Save app using my username and password.
+I need to activate by clicking on a link</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/19-0
+00:01:22.948 --> 00:01:23.068
+<v Arpita N>You.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/20-1
+00:01:23.427 --> 00:01:29.512
+<v Sandeep S>that is sent to me,
+a unique link that's sent to me on a on</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/20-2
+00:01:29.512 --> 00:01:30.628
+<v Sandeep S>the e-mail.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/21-0
+00:01:31.268 --> 00:01:37.045
+<v Sandeep S>That I've registered with.
+So this link should have some sort of</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/21-1
+00:01:37.045 --> 00:01:42.379
+<v Sandeep S>expiry, maybe 24 hours or 72 hours.
+We can figure that out,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/21-2
+00:01:42.379 --> 00:01:45.668
+<v Sandeep S>but that link should be unique to me.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/22-0
+00:01:46.268 --> 00:01:51.360
+<v Sandeep S>And once I've clicked on that link,
+that activates my account and I can log</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/22-1
+00:01:51.360 --> 00:01:54.242
+<v Sandeep S>in.
+So that ways we are verifying that you</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/22-2
+00:01:54.242 --> 00:01:59.268
+<v Sandeep S>actually own the e-mail address that you
+have registered the account with.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/23-0
+00:02:00.588 --> 00:02:00.708
+<v Arpita N>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/24-0
+00:02:01.188 --> 00:02:02.908
+<v Sandeep S>Does that make sense?</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/25-0
+00:02:04.148 --> 00:02:04.508
+<v Arpita N>Yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/27-0
+00:02:06.868 --> 00:02:12.344
+<v Sandeep S>I think on the road map we should also
+look for something that adds a captcha</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/27-1
+00:02:12.344 --> 00:02:17.328
+<v Sandeep S>when we are creating accounts.
+It'll have to be a free service that we</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/27-2
+00:02:17.328 --> 00:02:21.189
+<v Sandeep S>can integrate with,
+but that is for a future road map.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/27-3
+00:02:21.189 --> 00:02:24.068
+<v Sandeep S>I I don't think we have any items for it.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/28-0
+00:02:24.388 --> 00:02:26.428
+<v Sandeep S>Just flagging it here.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/26-0
+00:02:24.948 --> 00:02:25.308
+<v Arpita N>Mhm.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/29-0
+00:02:30.908 --> 00:02:31.028
+<v Arpita N>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/30-0
+00:02:34.428 --> 00:02:41.250
+<v Arpita N>So basically the the flow is that you go
+onto the site, you provide your,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/30-1
+00:02:41.250 --> 00:02:47.335
+<v Arpita N>you create your account,
+you're providing your e-mail and on that</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/30-2
+00:02:47.335 --> 00:02:51.668
+<v Arpita N>e-mail once the account is created it'll
+send.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/33-0
+00:02:53.068 --> 00:02:57.082
+<v Arpita N>The verification link to that e-mail that
+you used.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/31-0
+00:02:56.628 --> 00:02:57.348
+<v Sandeep S>Yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/33-1
+00:02:57.082 --> 00:03:03.567
+<v Arpita N>So you go into your e-mail and then click
+on that to verify and then it it when you</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/33-2
+00:03:03.567 --> 00:03:08.508
+<v Arpita N>click on that link it brings you back to
+the E Save app, right?</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/32-0
+00:03:09.588 --> 00:03:10.828
+<v Sandeep S>Correct. Yep.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/34-0
+00:03:11.228 --> 00:03:17.195
+<v Arpita N>OK, so we have some.
+What should we decide on some default</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/34-1
+00:03:17.195 --> 00:03:20.028
+<v Arpita N>time for which this will be?</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/36-0
+00:03:17.308 --> 00:03:22.428
+<v Sandeep S>It's, yeah, I think 72 hours. Maybe.
+Let's keep it as 72 hours.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/35-0
+00:03:21.708 --> 00:03:21.828
+<v Arpita N>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/37-0
+00:03:23.628 --> 00:03:23.748
+<v Arpita N>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/38-0
+00:03:25.548 --> 00:03:30.148
+<v Arpita N>Alright,
+anything else around this requirement?</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/39-0
+00:03:29.468 --> 00:03:34.348
+<v Sandeep S>I think messaging.
+We might need to show messaging if you're</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/39-1
+00:03:34.348 --> 00:03:38.268
+<v Sandeep S>trying to log in without activating the
+account.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/39-2
+00:03:38.268 --> 00:03:42.748
+<v Sandeep S>If the customer enters the right username
+and password,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/39-3
+00:03:42.748 --> 00:03:46.988
+<v Sandeep S>we should not log them in and show a
+message saying.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/40-0
+00:03:47.068 --> 00:03:49.508
+<v Sandeep S>Please activate your account first,
+I think.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/41-0
+00:03:50.948 --> 00:03:51.388
+<v Arpita N>Yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/42-0
+00:03:52.628 --> 00:03:54.308
+<v Arpita N>Yeah, that makes sense.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/43-0
+00:03:59.348 --> 00:04:02.286
+<v Arpita N>And when the user comes back to the E
+Save app,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/43-1
+00:04:02.286 --> 00:04:06.816
+<v Arpita N>they will have to provide their password
+here, right? For the first time,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/43-2
+00:04:06.816 --> 00:04:09.388
+<v Arpita N>it won't be like pre populated in any way.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/44-0
+00:04:09.948 --> 00:04:12.614
+<v Sandeep S>Yes, yeah,
+they'll have to provide their username</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/44-1
+00:04:12.614 --> 00:04:13.308
+<v Sandeep S>and password.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/46-0
+00:04:17.428 --> 00:04:22.821
+<v Sandeep S>The activation link. Oh,
+you mean when you click on the activation</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/45-0
+00:04:21.748 --> 00:04:22.188
+<v Arpita N>Yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/46-1
+00:04:22.821 --> 00:04:28.698
+<v Sandeep S>link, what should happen? Oh yeah,
+that that will bring you to a account</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/46-2
+00:04:28.698 --> 00:04:34.816
+<v Sandeep S>activation page and the the link.
+They shouldn't need to enter their e-mail</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/46-3
+00:04:34.816 --> 00:04:36.748
+<v Sandeep S>or password to activate.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/47-0
+00:04:36.988 --> 00:04:40.697
+<v Sandeep S>Their account.
+It should just bring them to a page that</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/47-1
+00:04:40.697 --> 00:04:43.148
+<v Sandeep S>says your account has been activated.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/48-0
+00:04:46.028 --> 00:04:48.788
+<v Arpita N>OK, then how do they then?</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/49-0
+00:04:50.628 --> 00:04:53.148
+<v Arpita N>Log in they just.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/52-0
+00:04:52.548 --> 00:04:55.636
+<v Sandeep S>They will have to, yeah.
+So once the account's activated,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/52-1
+00:04:55.636 --> 00:04:59.789
+<v Sandeep S>they'll have to click on login in the
+header and then log in after that using</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/52-2
+00:04:59.789 --> 00:05:02.771
+<v Sandeep S>their credentials.
+So this time because their account's</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/52-3
+00:05:02.771 --> 00:05:06.499
+<v Sandeep S>activated, they won't see that.
+Please activate your account message,</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/50-0
+00:05:04.388 --> 00:05:04.748
+<v Arpita N>Yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/52-4
+00:05:06.499 --> 00:05:09.108
+<v Sandeep S>they just get logged in and go to the
+dashboard.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/51-0
+00:05:10.908 --> 00:05:11.028
+<v Arpita N>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/53-0
+00:05:15.988 --> 00:05:16.748
+<v Arpita N>Yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/54-0
+00:05:21.428 --> 00:05:25.001
+<v Arpita N>That makes sense.
+And the other parts like where they</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/54-1
+00:05:25.001 --> 00:05:30.228
+<v Arpita N>provide the wrong password that I I guess
+is already covered right in another.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/56-0
+00:05:29.828 --> 00:05:32.188
+<v Sandeep S>Yeah, we'll, yeah,
+we'll assume that's already covered.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/55-0
+00:05:32.908 --> 00:05:33.028
+<v Arpita N>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/57-0
+00:05:35.988 --> 00:05:38.268
+<v Arpita N>okay yeah sounds good</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/58-0
+00:05:36.268 --> 00:05:41.230
+<v Sandeep S>Is it good? OK,
+I've I've I switched on the transcription</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/58-1
+00:05:41.230 --> 00:05:45.508
+<v Sandeep S>so we can use that to create a ticket.
+Let's see.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/59-0
+00:05:45.708 --> 00:05:47.348
+<v Arpita N>OK, perfect.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/60-0
+00:05:48.548 --> 00:05:49.508
+<v Sandeep S>OK.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/61-0
+00:05:48.868 --> 00:05:50.348
+<v Arpita N>So we'll, yeah.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/62-0
+00:05:51.028 --> 00:05:53.588
+<v Sandeep S>All right. Let me know when it's ready.
+Thank you.</v>
+
+ac4d64c9-551f-42b9-8373-eb2e454f0d70/64-0
+00:05:53.468 --> 00:05:54.828
+<v Arpita N>OK. Cheers. Bye.</v>
