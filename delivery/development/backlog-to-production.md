@@ -13,7 +13,15 @@ Backlog items follow the steps outlined here:
 1. Title must retain the DevTracker and REQ Id from the Development Tracker task.
 2. Description should be populated from the transcript of the meeting or filled in manually
 3. Any attachments can be added to the Github issue.
-4. Links to relevant figma designs can be added to issue.
+4. Classification of what the issue is about. If not detectable from the transcript, ask the creator.
+    a. If ticket involves UX changes:
+        i. Ask whether a design is available or Dev should use existing components and styling.
+        ii. If design is available, add link to issue.
+        iii. If design is not available, leave notes in ticket for Developer to use existing components and styling.
+    b. If ticket involves database changes:
+        i. Leave a note for Developer to add all database changes to the issue comments.
+        ii. Review transcripts created in the last 1 month to see if there are any existing database changes that can be used. Indicate in the ticket that similar changes were present in another issue , providing the file-name of the transcript.       
+5. Links to relevant figma designs can be added to issue.
 
 
 
