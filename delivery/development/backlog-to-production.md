@@ -2,6 +2,21 @@
 
 A step-by-step process for taking an ESave feature from the backlog through to production.
 
+## 1. Create a Backlog item
+Backlog items follow the steps outlined here:
+1. Create an item/task in the MS Planner > Development Tracker. This will trigger a TODO issue to be created in GitHub.
+2. Create a meeting with all stakeholders for the ticket, at this point of time it is only Product Owner which is Steve Howell. 
+3. Set the expectation that this meeting is being recorded so it can be used to create a Backlog item. Transcribe the meeting, full recording is not needed.
+4. From the transcript populate the Github issue description. To find the Github item use the REQ Id in the title of the Development Tracker task.
+
+### Github issue format
+1. Title must retain the DevTracker and REQ Id from the Development Tracker task.
+2. Description should be populated from the transcript of the meeting or filled in manually
+3. Any attachments can be added to the Github issue.
+4. Links to relevant figma designs can be added to issue.
+
+
+
 ## 1. Pick Up a Backlog Item
 
 Backlog items are present in the relevant Project:
