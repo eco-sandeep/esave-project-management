@@ -1,0 +1,183 @@
+WEBVTT
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/6-0
+00:00:03.423 --> 00:00:06.456
+<v Arpita N>Hi,
+so I wanted to discuss this new requirement with you about the web
+analytics integration</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/7-0
+00:00:11.863 --> 00:00:13.663
+<v Sandeep S>Yep. Yeah.</v>
+
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/13-1
+00:00:36.148 --> 00:00:42.529
+<v Sandeep S>so web analytics integration.
+Previously someone did a piece of work</v>
+
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/13-2
+00:00:42.529 --> 00:00:45.303
+<v Sandeep S>and I'll have to dig that out.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/15-0
+00:00:45.383 --> 00:00:52.320
+<v Sandeep S>They created a GA account for us which is
+free to create and use.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/15-1
+00:00:52.320 --> 00:01:00.623
+<v Sandeep S>What we need to do is add a little bit of
+JavaScript snippet that GA provides.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/16-0
+00:01:01.623 --> 00:01:08.692
+<v Sandeep S>Into every single page and then it starts
+tracking just the general analytics page</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/16-1
+00:01:08.692 --> 00:01:13.547
+<v Sandeep S>view analytics.
+It won't have any detail of what kind of</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/16-2
+00:01:13.547 --> 00:01:20.276
+<v Sandeep S>savings people are interacting with or
+any data about the users or the kind of</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/16-3
+00:01:20.276 --> 00:01:21.383
+<v Sandeep S>users access.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/17-0
+00:01:21.663 --> 00:01:28.981
+<v Sandeep S>It it'll be generic at this point,
+but I think that's fine as a first action</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/17-1
+00:01:28.981 --> 00:01:32.949
+<v Sandeep S>we can in a future release we can do a
+more.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/17-2
+00:01:32.949 --> 00:01:38.063
+<v Sandeep S>We can look at sending some additional
+data to analytics.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/18-0
+00:01:40.143 --> 00:01:41.503
+<v Arpita N>OK, so.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/21-0
+00:01:44.023 --> 00:01:50.363
+<v Arpita N>So basically what we're saying is there
+is a Google Analytics integration code</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/21-1
+00:01:50.363 --> 00:01:56.623
+<v Arpita N>snippets somewhere and the developer
+needs to go and add it to all the pages.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/20-0
+00:01:57.343 --> 00:01:57.663
+<v Sandeep S>Yeah.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/23-0
+00:01:57.863 --> 00:02:03.423
+<v Arpita N>Of the website,
+are the number of pages like fairly straightforward to identify?</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/22-0
+00:02:01.823 --> 00:02:02.103
+<v Sandeep S>Yeah.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/26-0
+00:02:05.503 --> 00:02:08.291
+<v Sandeep S>Yeah, it should be. I think it should be,
+yeah,</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/26-1
+00:02:08.291 --> 00:02:11.892
+<v Sandeep S>it should be a template or something that
+we can update, not.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/25-0
+00:02:11.743 --> 00:02:11.863
+<v Arpita N>OK.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/26-2
+00:02:11.892 --> 00:02:16.189
+<v Sandeep S>We probably don't have to go into every
+page maybe and we just update the</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/26-3
+00:02:16.189 --> 00:02:20.777
+<v Sandeep S>template and that applies to all the
+pages or maybe a couple of templates that</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/26-4
+00:02:20.777 --> 00:02:21.823
+<v Sandeep S>we need to update.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/28-0
+00:02:23.503 --> 00:02:26.419
+<v Arpita N>OK,
+so it's already template driven the </v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/28-1
+00:02:26.419 --> 00:02:27.943
+<v Arpita N>design at the moment.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/27-0
+00:02:27.263 --> 00:02:27.583
+<v Sandeep S>Yeah.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/29-0
+00:02:28.583 --> 00:02:29.983
+<v Sandeep S>Yeah, it should be.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/30-0
+00:02:31.023 --> 00:02:31.143
+<v Arpita N>OK.</v>
+
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/34-1
+00:02:41.712 --> 00:02:46.016
+<v Sandeep S>So I will need to provide a little dig it
+out where the snippet is.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/34-2
+00:02:46.016 --> 00:02:49.118
+<v Sandeep S>Otherwise I might create a new one and
+share it.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/33-0
+00:02:46.063 --> 00:02:46.183
+<v Arpita N>OK.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/34-3
+00:02:49.118 --> 00:02:53.423
+<v Sandeep S>So assign the ticket to to me or I don't
+know how we want to do it.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/35-0
+00:02:54.703 --> 00:02:56.848
+<v Arpita N>Yeah, yeah,
+I'll create the ticket and I'll assign it</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/35-1
+00:02:56.848 --> 00:02:57.343
+<v Arpita N>to you then.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/36-0
+00:02:58.663 --> 00:02:59.183
+<v Sandeep S>OK.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/37-0
+00:03:00.943 --> 00:03:01.263
+<v Sandeep S>Cool.</v>
+
+f2b02bdd-c028-4b3a-b473-209a4fc4e581/38-0
+00:03:02.023 --> 00:03:04.863
+<v Arpita N>OK, OK, cool. Short and sweet.</v>
