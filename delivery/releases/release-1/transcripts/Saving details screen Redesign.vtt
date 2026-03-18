@@ -1,0 +1,1055 @@
+WEBVTT
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/6-0
+00:00:03.327 --> 00:00:06.647
+<v Sandeep S>Uh, let me just share my saving rewards,
+right?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/7-0
+00:00:07.447 --> 00:00:09.567
+<v Arpita>Yeah, the screen redesign.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/8-0
+00:00:09.607 --> 00:00:09.927
+<v Arpita>And.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/9-0
+00:00:09.887 --> 00:00:10.927
+<v Sandeep S>Yes.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/12-0
+00:00:22.007 --> 00:00:22.167
+<v Sandeep S>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/13-0
+00:00:24.767 --> 00:00:26.247
+<v Sandeep S>You can see my screen.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/14-0
+00:00:26.247 --> 00:00:26.767
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/16-0
+00:00:27.927 --> 00:00:33.847
+<v Sandeep S>OK, cool. So uh, what you've got on there?
+Um.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/17-0
+00:00:36.887 --> 00:00:41.287
+<v Sandeep S>What you're seeing here is the.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/19-0
+00:00:43.167 --> 00:00:47.795
+<v Sandeep S>Is a few screens actually,
+or two screens at least? Yep.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/18-0
+00:00:46.847 --> 00:00:47.487
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/19-1
+00:00:47.795 --> 00:00:51.530
+<v Sandeep S>So the left section,
+which is this component.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/19-2
+00:00:51.530 --> 00:00:54.047
+<v Sandeep S>So if you see this, this is uh.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/20-0
+00:00:54.567 --> 00:00:55.487
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/21-0
+00:00:55.007 --> 00:01:01.840
+<v Sandeep S>This is the the red card basically.
+So this component is what is called a</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/21-1
+00:01:01.840 --> 00:01:06.087
+<v Sandeep S>card or a toil and it appears on the list
+of.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/23-0
+00:01:08.687 --> 00:01:12.767
+<v Sandeep S>Go to dashboard, start saving,
+start saving.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/22-0
+00:01:09.207 --> 00:01:09.567
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/24-0
+00:01:14.367 --> 00:01:15.527
+<v Sandeep S>So show me.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/26-0
+00:01:18.047 --> 00:01:25.010
+<v Sandeep S>So yeah,
+this this card is this is redesigned to</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/26-1
+00:01:25.010 --> 00:01:28.847
+<v Sandeep S>be this. Yep, then we have.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/25-0
+00:01:25.167 --> 00:01:25.967
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/27-0
+00:01:30.527 --> 00:01:33.082
+<v Sandeep S>This second screen which is a detailed
+screen.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/27-1
+00:01:33.082 --> 00:01:37.268
+<v Sandeep S>So when you click on find out more you'll
+see the second screen which is the</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/27-2
+00:01:37.268 --> 00:01:39.007
+<v Sandeep S>current version looks like this.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/28-0
+00:01:41.527 --> 00:01:47.643
+<v Sandeep S>But we want it to be different.
+There are two views of the screen.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/28-1
+00:01:47.643 --> 00:01:54.580
+<v Sandeep S>On the left is a mobile view and on the
+right hand side you have the a full</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/28-2
+00:01:54.580 --> 00:01:55.767
+<v Sandeep S>desktop view.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/30-0
+00:01:56.167 --> 00:01:59.567
+<v Arpita>Yeah,
+so the changes need to be applied to.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/29-0
+00:01:57.287 --> 00:01:57.367
+<v Sandeep S>Um.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/33-0
+00:02:02.527 --> 00:02:07.021
+<v Sandeep S>The changes need to be applied to both
+the screens,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/33-1
+00:02:07.021 --> 00:02:14.194
+<v Sandeep S>the list of tiles or list of cards screen,
+the card listing screen, let's call it,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/31-0
+00:02:11.447 --> 00:02:14.887
+<v Arpita>Yeah, and the details, OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/33-2
+00:02:14.194 --> 00:02:16.527
+<v Sandeep S>and the card detail screen.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/32-0
+00:02:16.247 --> 00:02:17.087
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/35-0
+00:02:18.247 --> 00:02:20.849
+<v Sandeep S>However,
+I think we can break it into two power</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/35-1
+00:02:20.849 --> 00:02:23.830
+<v Sandeep S>pieces of work because they are two
+different screens,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/35-2
+00:02:23.830 --> 00:02:26.377
+<v Sandeep S>they're going to remain two different
+screens,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/35-3
+00:02:26.377 --> 00:02:28.870
+<v Sandeep S>and the visual components are very
+different.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/35-4
+00:02:28.870 --> 00:02:30.767
+<v Sandeep S>I don't know your thoughts on that.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/34-0
+00:02:30.567 --> 00:02:31.967
+<v Arpita>Yeah, that sounds good.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/37-0
+00:02:37.047 --> 00:02:42.718
+<v Sandeep S>OK. Then in terms of information,
+it's roughly the same across the two of</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/37-1
+00:02:42.718 --> 00:02:46.166
+<v Sandeep S>these. So what is different is,
+for example,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/37-2
+00:02:46.166 --> 00:02:50.687
+<v Sandeep S>this action often pays itself off within
+five years, yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/36-0
+00:02:51.967 --> 00:02:52.287
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/38-0
+00:02:52.047 --> 00:02:57.336
+<v Sandeep S>I don't think we have have that
+information here,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/38-1
+00:02:57.336 --> 00:03:01.567
+<v Sandeep S>so for now I think it'll be lorem ipsum.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/39-0
+00:03:02.367 --> 00:03:02.487
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/40-0
+00:03:02.967 --> 00:03:05.440
+<v Sandeep S>Um,
+and we can we can see where that where</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/40-1
+00:03:05.440 --> 00:03:10.040
+<v Sandeep S>the content team can provide this to us.
+Otherwise we'll hide that section that</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/40-2
+00:03:10.040 --> 00:03:10.327
+<v Sandeep S>part.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/41-0
+00:03:12.447 --> 00:03:12.567
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/43-0
+00:03:15.527 --> 00:03:20.411
+<v Arpita>So there's an image at the top.
+This the star. The stars remain the same.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/42-0
+00:03:15.687 --> 00:03:15.967
+<v Sandeep S>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/43-1
+00:03:20.411 --> 00:03:22.127
+<v Arpita>So what do the stars mean?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/47-0
+00:03:22.207 --> 00:03:26.967
+<v Sandeep S>Yes, stars.
+So they didn't exist on this screen,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/44-0
+00:03:25.487 --> 00:03:25.607
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/47-1
+00:03:26.967 --> 00:03:33.864
+<v Sandeep S>but that information's available.
+So this so it the stars indicate how</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/45-0
+00:03:27.487 --> 00:03:27.607
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/47-2
+00:03:33.864 --> 00:03:41.247
+<v Sandeep S>complex is this job. So would you?
+Is it a DIY thing? Is it something that?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/46-0
+00:03:36.687 --> 00:03:36.807
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/48-0
+00:03:41.807 --> 00:03:47.742
+<v Sandeep S>Non DIY can do like you know you're
+putting a lid on the saucepan that's that</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/48-1
+00:03:47.742 --> 00:03:51.699
+<v Sandeep S>you don't need a DIY to be a DIY expert
+to do that.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/48-2
+00:03:51.699 --> 00:03:57.253
+<v Sandeep S>But if it was cavity wall insulation you
+probably want to call an actual</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/48-3
+00:03:57.253 --> 00:03:58.927
+<v Sandeep S>experienced certified.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/49-0
+00:03:59.367 --> 00:04:01.767
+<v Sandeep S>Insulator to help you with this.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/50-0
+00:04:02.727 --> 00:04:03.287
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/52-0
+00:04:04.047 --> 00:04:07.355
+<v Sandeep S>Yeah,
+so the examples on on this one give you</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/52-1
+00:04:07.355 --> 00:04:12.892
+<v Sandeep S>that that idea. Professionals only.
+So cavity wall, Yep, professionals only.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/52-2
+00:04:12.892 --> 00:04:17.135
+<v Sandeep S>Oven door seals.
+You can replace them if you know how your</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/52-3
+00:04:17.135 --> 00:04:22.097
+<v Sandeep S>way around a screwdriver and beginner as
+in change the heating down.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/52-4
+00:04:22.097 --> 00:04:23.967
+<v Sandeep S>So you anyone can do this.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/51-0
+00:04:25.127 --> 00:04:25.247
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/53-0
+00:04:26.287 --> 00:04:26.647
+<v Sandeep S>Yep.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/54-0
+00:04:27.167 --> 00:04:29.767
+<v Arpita>So the stars.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/55-0
+00:04:32.927 --> 00:04:37.087
+<v Arpita>Stars will come from the complexity level
+and it's somewhere in the.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/56-0
+00:04:35.807 --> 00:04:42.316
+<v Sandeep S>Yeah, I think there's only like one star,
+three star or five star.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/56-1
+00:04:42.316 --> 00:04:48.338
+<v Sandeep S>And that means five star is professionals.
+I think it's more.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/56-2
+00:04:48.338 --> 00:04:52.807
+<v Sandeep S>It's just there is only ever three
+different.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/57-0
+00:04:53.847 --> 00:04:59.846
+<v Sandeep S>Complexity levels and the stars are just
+to show that you know it's high</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/57-1
+00:04:59.846 --> 00:05:02.887
+<v Sandeep S>complexity and one is low complexity.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/58-0
+00:05:05.087 --> 00:05:09.084
+<v Arpita>OK,
+but where where will the developer be</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/58-1
+00:05:09.084 --> 00:05:14.127
+<v Arpita>able to get that information from?
+It's significant.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/60-0
+00:05:12.167 --> 00:05:15.137
+<v Sandeep S>Oh,
+this should be there in the data model</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/60-1
+00:05:15.137 --> 00:05:18.590
+<v Sandeep S>somewhere.
+I think I can I'll I can link the data</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/59-0
+00:05:16.847 --> 00:05:16.967
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/60-2
+00:05:18.590 --> 00:05:21.768
+<v Sandeep S>schema so they can see.
+So it's the wrenches.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/60-3
+00:05:21.768 --> 00:05:23.287
+<v Sandeep S>So this is 5 wrenches.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/61-0
+00:05:23.927 --> 00:05:24.847
+<v Arpita>Yeah, OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/62-0
+00:05:24.927 --> 00:05:27.193
+<v Sandeep S>Uh,
+this will be replaced by stars in the</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/62-1
+00:05:27.193 --> 00:05:29.728
+<v Sandeep S>future and that color scheme will also
+follow.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/62-2
+00:05:29.728 --> 00:05:32.425
+<v Sandeep S>You know it's a red because it's high
+complexity,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/62-3
+00:05:32.425 --> 00:05:34.367
+<v Sandeep S>green if it's the lowest complexity.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/63-0
+00:05:35.767 --> 00:05:38.940
+<v Arpita>OK, so yeah,
+if they were to click on that link and go</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/63-1
+00:05:38.940 --> 00:05:42.401
+<v Arpita>to the next screen,
+then they'll they'll they'll be able to</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/63-2
+00:05:42.401 --> 00:05:46.728
+<v Arpita>identify like where to pick up that from
+from that element which shows the</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/63-3
+00:05:46.728 --> 00:05:47.247
+<v Arpita>wrenches.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/66-0
+00:05:47.447 --> 00:05:50.156
+<v Sandeep S>Yeah,
+wherever these wrenches are coming from,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/64-0
+00:05:49.687 --> 00:05:50.007
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/66-1
+00:05:50.156 --> 00:05:54.767
+<v Sandeep S>that that's the same information that
+will be surfaced here as stars basically.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/65-0
+00:05:54.687 --> 00:05:54.807
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/67-0
+00:05:55.807 --> 00:06:00.474
+<v Sandeep S>Actually I also found the content.
+This action often based that little bit</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/67-1
+00:06:00.474 --> 00:06:04.207
+<v Sandeep S>of editorial is also on the detail screen,
+so it's in here.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/68-0
+00:06:04.727 --> 00:06:04.847
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/69-0
+00:06:07.167 --> 00:06:10.727
+<v Sandeep S>So we do have the data already,
+so it doesn't need to be Lorem Ipsum.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/70-0
+00:06:11.567 --> 00:06:11.687
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/71-0
+00:06:12.847 --> 00:06:13.687
+<v Sandeep S>Yep.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/73-0
+00:06:15.527 --> 00:06:21.133
+<v Arpita>There is this info block on the as is
+like current version.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/73-1
+00:06:21.133 --> 00:06:27.859
+<v Arpita>So are we getting rid of that?
+There's an info button no on the tile on</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/72-0
+00:06:23.967 --> 00:06:25.367
+<v Sandeep S>More info.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/74-0
+00:06:26.927 --> 00:06:31.887
+<v Sandeep S>Oh, on the OK, one second info. Oh.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/73-2
+00:06:27.859 --> 00:06:29.167
+<v Arpita>the tile view.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/75-0
+00:06:34.167 --> 00:06:38.334
+<v Sandeep S>Yes. So this information, I think, uh,
+we're saying it should be in there.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/75-1
+00:06:38.334 --> 00:06:41.167
+<v Sandeep S>There's no reason for this to be shown
+separately.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/76-0
+00:06:43.087 --> 00:06:48.607
+<v Arpita>So is it being cated for in the the Figma
+for the style?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/77-0
+00:06:48.247 --> 00:06:53.606
+<v Sandeep S>No, it's not there on this time.
+I think we're saying that this</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/77-1
+00:06:53.606 --> 00:06:58.630
+<v Sandeep S>information is not.
+I mean that information is available on</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/77-2
+00:06:58.630 --> 00:07:00.807
+<v Sandeep S>the detail screen anyways.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/78-0
+00:07:00.647 --> 00:07:03.567
+<v Arpita>OK, so we don't need to have this problem.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/79-0
+00:07:02.207 --> 00:07:05.087
+<v Sandeep S>So, uh,
+there's no reason for a modal that kind</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/79-1
+00:07:05.087 --> 00:07:06.407
+<v Sandeep S>of pop up thing maybe?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/80-0
+00:07:07.087 --> 00:07:07.207
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/81-0
+00:07:09.087 --> 00:07:09.207
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/83-0
+00:07:12.207 --> 00:07:13.807
+<v Sandeep S>Should we go through the details screen
+as well?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/82-0
+00:07:12.847 --> 00:07:13.087
+<v Arpita>So.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/84-0
+00:07:15.167 --> 00:07:15.887
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/85-0
+00:07:16.087 --> 00:07:23.247
+<v Sandeep S>We can maybe assign the card detail
+screen to dev to have a look at.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/86-0
+00:07:24.767 --> 00:07:28.040
+<v Sandeep S>I'm not sure if we have all of this
+information,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/86-1
+00:07:28.040 --> 00:07:32.247
+<v Sandeep S>but we'll we'll see now and find out what
+what we can support.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/88-0
+00:07:35.047 --> 00:07:36.927
+<v Arpita>Yeah, sounds good. Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/87-0
+00:07:35.887 --> 00:07:37.567
+<v Sandeep S>Yeah. Should we go through detail then?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/89-0
+00:07:38.527 --> 00:07:44.627
+<v Sandeep S>All right, so detail. I think it's yeah,
+it's self-explanatory what it is.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/89-1
+00:07:44.627 --> 00:07:51.134
+<v Sandeep S>I'll just try and see if I can map it to
+the detail screen here. So helps with.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/89-2
+00:07:51.134 --> 00:07:53.167
+<v Sandeep S>That's the first section.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/90-0
+00:07:54.767 --> 00:07:58.301
+<v Sandeep S>This action helps with,
+so there's a little bit of change to the</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/90-1
+00:07:58.301 --> 00:08:01.727
+<v Sandeep S>labels we're using it seems,
+and there's an icon involved now.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/92-0
+00:08:03.207 --> 00:08:08.674
+<v Sandeep S>Yeah, then saving heating it.
+So this list is probably coming from a</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/91-0
+00:08:04.087 --> 00:08:04.927
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/92-1
+00:08:08.674 --> 00:08:11.527
+<v Sandeep S>data element in the in the database.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/93-0
+00:08:11.527 --> 00:08:17.047
+<v Arpita>Yeah,
+it's it's in the current view as well.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/94-0
+00:08:16.327 --> 00:08:17.527
+<v Sandeep S>Yeah, yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/95-0
+00:08:18.527 --> 00:08:21.807
+<v Arpita>OK, so you you is,
+is this the current view? Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/96-0
+00:08:22.167 --> 00:08:22.407
+<v Sandeep S>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/97-0
+00:08:22.927 --> 00:08:24.447
+<v Arpita>OK, so.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/100-0
+00:08:23.647 --> 00:08:27.298
+<v Sandeep S>Then we have how to get started and
+getting started.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/100-1
+00:08:27.298 --> 00:08:31.775
+<v Sandeep S>So there's one to one mapping to all of
+the elements, right? OK,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/98-0
+00:08:27.887 --> 00:08:28.847
+<v Arpita>Getting started.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/99-0
+00:08:30.647 --> 00:08:31.007
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/100-2
+00:08:31.775 --> 00:08:36.527
+<v Sandeep S>and then there's tips and recommendations
+and there's bullet points.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/100-3
+00:08:36.527 --> 00:08:39.007
+<v Sandeep S>So I think this data must be coming.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/101-0
+00:08:39.007 --> 00:08:42.537
+<v Sandeep S>Tips.
+It's possible that we don't have this as</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/101-1
+00:08:42.537 --> 00:08:45.993
+<v Sandeep S>the as bullet points as separate data
+points.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/101-2
+00:08:45.993 --> 00:08:51.326
+<v Sandeep S>The same for getting how to get started
+is a paragraph, which is fine,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/101-3
+00:08:51.326 --> 00:08:56.884
+<v Sandeep S>but it's possible that tips and
+recommendations ends up being a paragraph</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/101-4
+00:08:56.884 --> 00:08:58.687
+<v Sandeep S>as well. Depends on how.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/103-0
+00:08:58.807 --> 00:09:02.107
+<v Sandeep S>Data we see.
+So we should just do what what is there</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/103-1
+00:09:02.107 --> 00:09:07.088
+<v Sandeep S>in the data and then we can have a chat
+with Steve whether we want to match the</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/103-2
+00:09:07.088 --> 00:09:12.007
+<v Sandeep S>bullet point formatting and in that case
+we'll have to change the data itself.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/102-0
+00:09:13.167 --> 00:09:13.407
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/104-0
+00:09:20.487 --> 00:09:24.819
+<v Arpita>More resources and more info.
+Is that like similar kind of savings</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/104-1
+00:09:24.819 --> 00:09:25.207
+<v Arpita>trust?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/105-0
+00:09:25.327 --> 00:09:25.447
+<v Sandeep S>Uh.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/106-0
+00:09:27.367 --> 00:09:29.407
+<v Arpita>And everything, yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/107-0
+00:09:27.967 --> 00:09:35.927
+<v Sandeep S>Yeah, looks looks done for you, yeah,
+but this looks like a paragraph and.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/108-0
+00:09:37.167 --> 00:09:40.807
+<v Sandeep S>This then is the list of bullets to show.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/109-0
+00:09:42.447 --> 00:09:42.567
+<v Sandeep S>Um.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/110-0
+00:09:46.887 --> 00:09:51.573
+<v Sandeep S>Yeah,
+I think we should we should start with a</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/110-1
+00:09:51.573 --> 00:09:53.767
+<v Sandeep S>simple structure here.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/111-0
+00:09:56.247 --> 00:09:59.167
+<v Arpita>OK, like paragraph view.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/112-0
+00:09:59.687 --> 00:10:06.905
+<v Sandeep S>Yeah, we keep what is.
+We keep the same kind of text here and</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/112-1
+00:10:06.905 --> 00:10:07.487
+<v Sandeep S>then.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/114-0
+00:10:08.887 --> 00:10:14.993
+<v Sandeep S>How do we want to track these things?
+So tips and more info we need to find out</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/114-1
+00:10:14.993 --> 00:10:21.329
+<v Sandeep S>from Steve and that's a you and me thing
+to find out from Steve whether we can get</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/114-2
+00:10:21.329 --> 00:10:24.687
+<v Sandeep S>this into in a data format that we can
+use.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/116-0
+00:10:26.887 --> 00:10:27.167
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/115-0
+00:10:27.567 --> 00:10:27.647
+<v Sandeep S>It.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/117-0
+00:10:28.807 --> 00:10:28.927
+<v Sandeep S>Uh.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/119-0
+00:10:30.967 --> 00:10:35.249
+<v Arpita>Is it?
+Is it worth like a first getting what we</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/119-1
+00:10:35.249 --> 00:10:41.047
+<v Arpita>have as is and then um probably do
+another round for formatting?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/120-0
+00:10:43.527 --> 00:10:47.316
+<v Sandeep S>Yeah, I think we should, yeah,
+we should do the this open piece.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/120-1
+00:10:47.316 --> 00:10:51.047
+<v Sandeep S>We we do a second pass of the same screen
+maybe. Yeah, I agree.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/121-0
+00:10:55.087 --> 00:10:55.807
+<v Sandeep S>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/122-0
+00:10:55.687 --> 00:11:01.887
+<v Arpita>OK. And there's like a view.
+Are those like the links to?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/125-0
+00:11:00.647 --> 00:11:04.504
+<v Sandeep S>Yeah, links. Instead of being a link,
+they made it a title.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/125-1
+00:11:04.504 --> 00:11:09.261
+<v Sandeep S>So it feels like we might have that data.
+So if I look at this more info,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/123-0
+00:11:08.647 --> 00:11:08.927
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/125-2
+00:11:09.261 --> 00:11:12.860
+<v Sandeep S>how to install cavity wall insulation,
+that's one part.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/124-0
+00:11:10.847 --> 00:11:11.127
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/125-3
+00:11:12.860 --> 00:11:15.367
+<v Sandeep S>Energy Saving Trust is the second part.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/126-0
+00:11:17.487 --> 00:11:21.807
+<v Sandeep S>So maybe this is the same thing and the
+view is just a link, right?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/127-0
+00:11:20.887 --> 00:11:23.407
+<v Arpita>Yeah, it just opens up a.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/129-0
+00:11:24.207 --> 00:11:28.340
+<v Sandeep S>Yeah,
+so maybe we have all the information</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/129-1
+00:11:28.340 --> 00:11:31.127
+<v Sandeep S>already. We need to find out.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/128-0
+00:11:29.527 --> 00:11:30.367
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/130-0
+00:11:33.127 --> 00:11:37.994
+<v Sandeep S>Or the devs can find out if they can find
+all the information that they need to</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/130-1
+00:11:37.994 --> 00:11:38.967
+<v Sandeep S>build this view.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/131-0
+00:11:43.487 --> 00:11:47.159
+<v Sandeep S>And then there's a confirm button which
+is similar to what we have before right</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/131-1
+00:11:47.159 --> 00:11:49.087
+<v Sandeep S>now. Would you like to confirm the saving?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/132-0
+00:11:50.247 --> 00:11:50.767
+<v Arpita>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/133-0
+00:11:52.047 --> 00:11:56.407
+<v Arpita>So these icons with the green ones with
+the are.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/134-0
+00:11:57.927 --> 00:12:01.807
+<v Arpita>Are there either like a finite set of
+icons available somewhere?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/135-0
+00:12:02.567 --> 00:12:10.367
+<v Sandeep S>I don't think so. That's a good question.
+You might need to find out how many</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/135-1
+00:12:10.367 --> 00:12:14.567
+<v Sandeep S>different types you can have. So this was.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/136-0
+00:12:16.087 --> 00:12:20.687
+<v Sandeep S>All energy, household waste.
+Let's see if this is different.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/137-0
+00:12:26.327 --> 00:12:31.046
+<v Sandeep S>So if you see getting started is empty,
+I think that this is the full set and</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/137-1
+00:12:31.046 --> 00:12:33.527
+<v Sandeep S>information may be missing in some cases.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/138-0
+00:12:37.607 --> 00:12:41.995
+<v Sandeep S>The icons,
+I mean the sections are the same across</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/138-1
+00:12:41.995 --> 00:12:48.017
+<v Sandeep S>everything, so I imagine icons.
+The set of icons we need is finite as</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/138-2
+00:12:48.017 --> 00:12:48.447
+<v Sandeep S>well.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/139-0
+00:12:51.087 --> 00:12:51.207
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/140-0
+00:12:54.167 --> 00:12:59.087
+<v Arpita>Is it possible we don't have them at the
+moment like that?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/142-0
+00:12:57.287 --> 00:13:00.799
+<v Sandeep S>Yes,
+it's very likely we don't have these</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/142-1
+00:13:00.799 --> 00:13:04.813
+<v Sandeep S>icons,
+so we'll have to ask the devs who can if</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/141-0
+00:13:04.767 --> 00:13:04.887
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/142-2
+00:13:04.813 --> 00:13:10.750
+<v Sandeep S>they can create these icons.
+I think the person who did these designs,</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/142-3
+00:13:10.750 --> 00:13:15.684
+<v Sandeep S>his name is Dorian.
+He might have provided Steve a dump of</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/142-4
+00:13:15.684 --> 00:13:16.687
+<v Sandeep S>these icons.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/145-0
+00:13:17.127 --> 00:13:22.752
+<v Arpita>OK, so there's two things from Steve. Um,
+so the first one we were thinking about</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/143-0
+00:13:17.247 --> 00:13:17.327
+<v Sandeep S>Um.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/145-1
+00:13:22.752 --> 00:13:27.966
+<v Arpita>like the bullet points which we can,
+we said probably we can do that in the</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/144-0
+00:13:27.447 --> 00:13:28.207
+<v Sandeep S>Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/145-2
+00:13:27.966 --> 00:13:31.533
+<v Arpita>second pass,
+but these icons we probably need right</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/145-3
+00:13:31.533 --> 00:13:31.807
+<v Arpita>now.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/147-0
+00:13:32.087 --> 00:13:36.127
+<v Sandeep S>Yes. Yeah. OK. Yeah.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/146-0
+00:13:33.407 --> 00:13:33.527
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/148-0
+00:13:37.567 --> 00:13:37.687
+<v Arpita>OK.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/150-0
+00:13:42.207 --> 00:13:48.386
+<v Sandeep S>OK. Yeah, I think, yeah,
+that's that should be, that should be it.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/149-0
+00:13:42.767 --> 00:13:43.967
+<v Arpita>Anything else?</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/150-1
+00:13:48.386 --> 00:13:48.847
+<v Sandeep S>Cool.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/151-0
+00:13:49.567 --> 00:13:52.207
+<v Arpita>OK. OK. Thank you, Sandeep.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/154-0
+00:13:52.767 --> 00:13:58.823
+<v Sandeep S>Yeah, no worries. Yes,
+I'll share the transcript of the phone.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/153-0
+00:13:57.007 --> 00:13:57.967
+<v Arpita>Thanks. Cheers. Bye.</v>
+
+7273609e-d2e1-4cba-afc7-aa0348362ffe/154-1
+00:13:58.823 --> 00:13:59.207
+<v Sandeep S>Bye.</v>
