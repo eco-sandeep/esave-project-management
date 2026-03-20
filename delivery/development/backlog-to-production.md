@@ -94,7 +94,7 @@ python manage.py makemigrations --check
 ## 5. Raise a Pull Request
 
 - Push your feature branch to GitHub
-- Open a Pull Request (PR) targeting `main`
+- Open a Pull Request (PR) targeting `stage`
 - PR description should include: what changed, how to test it, and the backlog item ID
 - Request a review from at least one team member
 
@@ -112,12 +112,12 @@ git push origin feature/REQ-<ID>-short-description
 
 ## 7. Merge to Main
 
-- Squash-merge or merge the PR into `main` via GitHub
+- Squash-merge or merge the PR into `stage` via GitHub
 - Delete the feature branch after merge
 
 ## 8. Deploy to Heroku (Production)
 
-- Heroku deploys from the `main` branch to esave-staging.
+- Heroku deploys from the `stage` branch to esave-staging.
 - Verify the deployment succeeds in the Heroku dashboard
 - Smoke-test the feature on the live site ([stage.esave.org.uk](https://stage.esave.org.uk))
 
@@ -139,7 +139,7 @@ git push origin feature/REQ-<ID>-short-description
 | Test | Manual + automated tests | Browser |
 | PR | Push & raise PR | GitHub |
 | Review | Peer review | GitHub |
-| Merge | Merge to main | GitHub |
+| Merge | Merge to stage | GitHub |
 | Deploy | Deploy & smoke-test to staging | Heroku |
 | Close | Move to Done on project board & notify | GitHub Project / Teams |
 
