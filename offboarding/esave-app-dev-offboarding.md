@@ -13,3 +13,12 @@
   - esave1/ecocentre: https://dashboard.heroku.com/apps/ecocentre/access
 - **AWS RDS Access**: Grant necessary AWS RDS database access.
   - Action Owner: Sandeep Singh
+
+
+## Offboarded
+### Alex D
+Informed leaving on 24th Mar 2026
+- MS-265 🟠 : Pending
+- Github ✔️ : 25th March 2026
+- Heroku ✔️ : Not given access
+- AWS RDS ✔️ : Not given access
