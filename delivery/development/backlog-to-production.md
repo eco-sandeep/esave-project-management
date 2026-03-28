@@ -51,7 +51,9 @@ Notice the title uses the format `[DevTracker] - REQ-hg9ucs88 - Do something`, i
 > **Further reading**: [GitHub Issues quickstart](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 
 ## 2. Set Up a Feature Branch
-When starting investigation/spike/development always perform this on Feature branch. Branch should always 
+When starting investigation/spike/development always perform this on Feature branch. 
+Branch should be created from the issue view, so the PR is linked to the issue
+<img width="985" height="531" alt="image" src="https://github.com/user-attachments/assets/665549e7-12a3-4964-8eb0-3639a5381cf8" />
 
 ```bash
 git checkout main
