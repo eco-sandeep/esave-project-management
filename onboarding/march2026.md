@@ -13,9 +13,10 @@ Git usage document - sandeep
 - email : X
 ## Sudheer
 - email : X
-## BenT
-- email : still checking
 ## Alex
 - email : X
-## Dawood
-- email : X
+## Patrick Chan
+- email : Done
+- Github - Done
+- Heroku - Pending
+- AWS RDS - Pending
