@@ -25,3 +25,15 @@ Informed leaving on 24th Mar 2026
 - AWS RDS ✔️ : Not given access
 - Update team list ✔️: 25th March 2026 
 
+### Ben Tawse
+Steve informed he has left on 18th May 2026
+- Github ✔️ : 18th May 2026
+- Heroku ✔️ : Not given access
+- AWS RDS ✔️ : Not given access
+- Update team list ✔️: 25th March 2026
+
+### uwajohn101@outlook.com
+Need to remove John from Heroku but not enough privileges to remove collaborators
+
+
+
